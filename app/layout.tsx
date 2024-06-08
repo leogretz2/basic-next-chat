@@ -1,5 +1,5 @@
 import { ReactNode } from 'react';
-import { AI } from './actions';
+import { AI } from '../lib/chat/actions';
 
 export default function RootLayout({
   children,
